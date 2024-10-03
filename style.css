@@ -1,0 +1,125 @@
+body {
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  /* border: 1px solid rgb(0, 255, 0); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 99vh;
+}
+
+.text-container {
+  /* border: 1px solid rgb(0, 0, 255); */
+  padding: 1rem;
+  width: 25rem;
+  margin-right: 5rem;
+}
+
+.text-container h1 {
+  font-family: fantasy;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 3rem;
+  color: rgb(0, 0, 0);
+}
+
+.text-container p {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.guest-input-container {
+  /* border: 1px solid rgb(255, 69, 255); */
+  padding: 1rem;
+  width: 25rem;
+  margin-left: 5rem;
+}
+
+.guest-input-container select {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.5rem;
+}
+
+.mandatory-text {
+  color: rgb(255, 0, 0);
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+}
+
+.button {
+  color: rgb(255, 255, 255);
+  border: none;
+  background: rgb(0, 0, 0);
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.5rem;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: rgb(20, 20, 20);
+}
+
+.main-poster-container button {
+  justify-content: center;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 25rem;
+}
+
+.poster-container {
+  /* border: 1px solid rgb(0, 255, 0); */
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2.5rem;
+  height: 50rem;
+  width: 35rem;
+}
+
+@media (max-width: 1024px) {
+  .main-container {
+    flex-direction: column;
+    align-items: center;
+    max-width: 75rem; 
+  }
+
+  .text-container {
+    width: 15rem;
+    margin-right: 2.5rem;
+    margin-left: 2.5rem;
+  }
+
+  .text-container h1 {
+    font-size: 2.5rem;
+  }
+
+  .guest-input-container {
+    margin-right: 2.5rem;
+    margin-left: 2.5rem;
+    width: 10rem;
+  }
+
+  .main-poster-container button {
+    font-size: 10px;
+    width: 15rem;
+  }
+
+  .poster-container {
+    margin-top: 5rem;
+    height: 30rem;
+    width: 20rem;
+  }
+  
+}
