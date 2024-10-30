@@ -1,6 +1,3 @@
-// import config from './config.js';
-// console.log(`API Key: ${config.API_KEY}`);
-
 const genre = {
   action: 28,
   adventure: 12,
