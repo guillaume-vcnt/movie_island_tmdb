@@ -10,7 +10,7 @@ films générées selon un filtres de genre précis.
 
 Nombre de participants : 1 
 
-Technologies : JavaScript, HTLM, CSS
+Technologies : JavaScript, HTML, CSS
 
 Refactorisé : Non 
 
