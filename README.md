@@ -24,7 +24,7 @@ OS : Windows
 
 ## Utilisation 
 
-S'exécute via Live Server
+S'exécute via https://guillaume-vcnt.github.io/weather_zone
 
 ## Sources
 TMDB API from https://developer.themoviedb.org
