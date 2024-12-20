@@ -17,7 +17,7 @@ Technologies : JavaScript, HTML, CSS
 
 Refactorisé : Non 
 
-Responsivité : Oui
+Responsive : Oui
 
 UI/UX : Non
 
