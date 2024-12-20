@@ -15,7 +15,7 @@ Nombre de participants : 1
 
 Technologies : JavaScript, HTML, CSS
 
-Refactorisé : Non 
+Refactorisation : Non 
 
 Responsive : Oui
 
