@@ -1,6 +1,7 @@
-movie_island_tmdb
+Movie Island (tmdb)
 
-## À propos 
+## À propos
+
 Ce projet a pour objectif de développer une application web qui permette de visualiser des données de façon dynamique. Ici l'utilisateur peut recevoir des recommandations de
 films générées selon un filtres de genre précis.
 
@@ -29,4 +30,5 @@ OS : Windows
 S'exécute via https://guillaume-vcnt.github.io/weather_zone
 
 ## Sources
+
 TMDB API from https://developer.themoviedb.org
