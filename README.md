@@ -25,7 +25,7 @@ IDE : VSCode
 
 OS : Windows 
 
-## Utilisation 
+## Utilisation
 
 S'exécute via https://guillaume-vcnt.github.io/weather_zone
 
