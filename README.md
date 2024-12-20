@@ -27,7 +27,7 @@ OS : Windows
 
 ## Utilisation
 
-S'exécute via https://guillaume-vcnt.github.io/weather_zone
+S'exécute via https://guillaume-vcnt.github.io/movie_island_tmdb
 
 ## Sources
 
