@@ -11,8 +11,6 @@ films générées selon un filtres de genre précis.
 
 État du projet : Terminé
 
-Nombre de participants : 1 
-
 Technologies : JavaScript, HTML, CSS
 
 Refactorisation : Non 
